@@ -1,5 +1,5 @@
 # Kamiri | Portfolio
-
+Credits to the original author of this project Charles Kamiri
 ## Table of Contents
 
 - [Description](#Description)
